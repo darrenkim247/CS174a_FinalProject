@@ -9,6 +9,14 @@ To run, clone the repo and execute the batch script in your command line:
     > host.bat
 Then navigate to port 8000 on localhost to view & interact with the project.
 
+For Mac users, clone the repo, locate the file on Finder, and click host.command
+
+If permissions are not allowed cd into the file directory on Terminal and execute:
+    
+   >chmod u+x host.command
+
+The file should then be made executable, then navigate to localhost:8000
+
 
 #### Instructions on how to run and play the game: ####
 
