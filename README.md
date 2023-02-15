@@ -36,3 +36,5 @@ There are 3 levels in total, with the rate of apples spawing increasing with eac
 
 Press p to pause.
 Press r to restart.
+
+NOTE: If game does not properly load on localhost server, refresh the page using (Shift + CMD + R) on Mac or (CTRL + Shift + R) on Windows
